@@ -1,0 +1,8 @@
+# Site Settings
+locale                   : "en-US"
+title                    : "Portfolio"
+title_separator          : "-"
+subtitle                 : Hanbyeol J - Portfolio
+name                     : "Han"
+description              : "Portfolio 2021ver"
+url                      : "https://hanbyeoll.github.io/portfolio/"
