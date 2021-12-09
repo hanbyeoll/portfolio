@@ -1,7 +1,7 @@
-## portfolio
+## Portfolio
 
-Hi, I'm product designer based in New York. 
-Hope you enjoy and Thank you for watching!
+Hi, I'm product designer based in New York. <br>
+Hope you enjoy and Thank you for watching! <br>
 To visit my website, <a href="https://hanbyeoll.github.io/portfolio/">click here</a>
 
 ### About Me
