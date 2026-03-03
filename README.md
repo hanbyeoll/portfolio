@@ -1,15 +1,17 @@
 ## Portfolio
 
 Hi, I'm product designer based in New York. Hope you enjoy and Thank you for watching! <br>
-To visit my website, <a href="[https://hanbyeoll.github.io/hanportfolio/index.html]">click here</a>
+To visit my website, <a href="https://hanbyeoll.github.io/portfolio/">click here</a>
 
 ### About Me
 
-I am a problem solver specializing in creating beautiful, yet functional digital products. 
-I am focusing on improving diverse user experiences and creating layout designs. 
-I enjoy what I do and I work hard especially with who I work with. 
-And I believe good design can change the world with awesome people and meaningful work. 
-Let's change the world together!
+Hi, I’m a Product Designer who enjoys bringing clarity and consistency to complex systems.
+
+Over the past few years, I’ve worked on data-heavy products where complexity is unavoidable. I enjoy identifying patterns within messy workflows and shaping them into experiences that feel intentional and easy to use.
+
+Much of my work involves refining and strengthening structure. This includes improving documentation, evolving shared design patterns, and helping teams stay aligned as products scale.
+
+I care about thoughtful interaction design, clear communication, and building solutions that hold up over time.
 
 ### Follow Me
 
